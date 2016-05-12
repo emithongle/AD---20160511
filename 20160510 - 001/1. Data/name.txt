@@ -345,7 +345,6 @@ Mr. Tuyen N. Huynh
 Mrs. Nguyễn Quang
 nguyễn văn long
 Lê Vũ
-Khiêm
 Khuong Huynh
 Trần Tất Đạt
 Pham Nguyet Nga
@@ -384,7 +383,6 @@ Trần Cao Nguyên
 Trương Ngọc Quý
 Phạm ngọc Tuân
 Bà. Trần Minh Tiến
-hưng
 nguyen minh diep
 Truong Huu Hoan
 Hồ Quang Huy
@@ -551,7 +549,6 @@ Hai Nguyen
 Bà. Albert Le
 Ms. Dien Nguyen
 NGUYỄN NGỌC HƯNG
-Dân
 Bà. Nguyễn Thị Mỹ Linh
 Nguyễn Lê Trung Châu
 Vincent Kim
@@ -1253,9 +1250,7 @@ Trần Bình Định
 Bà. Nguyễn Đức Minh
 Le Thi Thu Tra
 Trần Trung
-dfdsf
 Ông. trần văn sáng
-ALBERTI
 Ông. Lê Dũng
 Ông. Phạm Ngọc Minh
 Thanh Phan
@@ -1320,7 +1315,6 @@ Phạm Văn Quang
 nguyen tuan hiep
 JohnĐỗTrương
 Trịnh Thị Hạnh
-EHLY
 Nguyễn Thị Thanh Huyền
 Bùi Hoài. Mai
 Bà. Anh tran
@@ -1362,7 +1356,7 @@ Lâm Trọng Tân
 Cao Tường Vũ Nguyen
 Lê Trí Công
 Mrs. Phan Tuấn Bình
-duongduytien
+duong duy tien
 Nguyễn Đức Tuấn
 Nguyen Nhien
 Thanh Phuong
@@ -1411,7 +1405,7 @@ Tô Oanh
 Tho Hoang
 Duong Cong Hung
 Tuan Hoang
-tranvuthien
+tran vu thien
 Mr. Phan xuan Phung
 Phan Quốc Huy
 Lê Thu Hà
@@ -1486,7 +1480,7 @@ Lê  Văn Chương
 Lê Hoàn
 Nguyễn Anh Cường
 Hứa Trường Thành
-Dang-vu-Loi
+Dang - vu - Loi
 Mr. Hồ Văn Huy
 Nguyễn Thuỵ Anh
 Hao-Nhien Vu
@@ -1655,7 +1649,7 @@ khanh toan hoang
 Ngô Hoàng Trí Dũng
 lê diệu linh
 lê đức quang
-xuannytat
+xuan ny tat
 Ông/Bà. Duong quang An-Vi
 Bà. Đỗ Thành Đạt
 susan tat nguyen
@@ -1898,7 +1892,7 @@ Mrs. Nguyễn minh Tâm
 Nam Ngo
 LE Hong Van
 truong thuy
-hieple
+hiep le
 Ms. Dương Danh Huy
 la van phan
 Ông. Mai Pham
@@ -1923,7 +1917,6 @@ Mr. LU HUYNH
 THU LE
 KIEU THI DANG
 NHU MAY
-Abauzit
 Bà. Lê Minh Hà
 Toan Chieu Luong
 Bà. TRAN van Cung
@@ -1980,7 +1973,7 @@ Mr. Binh Pham
 Bui Xuan Vuong
 Ms. Lưu Chương Thiện
 Nam Gia Nguyen
-TanNguyen
+Tan Nguyen
 Nguyen Tuan Anh
 Mr. Vo, Van Nhut
 Mrs. Giang Son Ngoc
@@ -2013,7 +2006,6 @@ Tran Tran
 Pham huy Trung
 Ông/Bà. Nguyễn Đào Ngọc Vân
 Mrs. nguyen cu Lan
-Nghia
 Hong Anh Ngo
 Mrs. Duong Tran
 tran vu tuan
@@ -2050,7 +2042,7 @@ Lại Hưng Quốc
 BÙI THỊ NGUYÊN
 TRẦN VĂN CẢNH
 David Nguyen
-vinhbbui
+vinh bbui
 Phuc Dinh
 Pham Toan Thang
 Mrs. Lưu Phùng Nguyễn
@@ -2151,7 +2143,7 @@ Hoàng An Nhiên
 Huỳng Văn Thắng
 Đỗ Nguyệt Minh
 Lê đức lượng
-Tran,Phap
+Tran Phap
 Nguyễn Thành Trung
 Vũ Minh Tấn Tài
 Nguyễn Thị Phương Thảo
@@ -2420,7 +2412,7 @@ Vân Đỗ Hải
 Bùi Ngọc Quang
 Nguyen P. Tho
 Lâ Trần Như Ngọc
-Vu Luulinh
+Vu Luu linh
 Trương Huy Khang
 Mrs. Trần Quang Lâm
 Nguyễn Quang Huy

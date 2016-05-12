@@ -70,21 +70,21 @@ model_configs = {
         'layers': [(10, 'Sigmoid'), (2, 'Softmax')],
         'learning_rate': 0.01,
         'learning_rule': 'adagrad',
-        'n_iter': 1000
+        'n_iter': 300
     },
     'address-model': {
         'type': 'Neural-Network',
         'layers': [(10, 'Sigmoid'), (2, 'Softmax')],
         'learning_rate': 0.01,
         'learning_rule': 'adagrad',
-        'n_iter': 1000
+        'n_iter': 300
     },
     'phone-model': {
         'type': 'Neural-Network',
         'layers': [(10, 'Sigmoid'), (2, 'Softmax')],
         'learning_rate': 0.01,
         'learning_rule': 'adagrad',
-        'n_iter': 1000
+        'n_iter': 300
     }
 }
 featureConfig = {
@@ -165,8 +165,8 @@ featureConfig = {
         ('bfirst-character-ascii', True),
         ('bsecond-character-digit', True),
         ('bsecond-character-ascii', True),
-        ('blast-character-digit', False),
-        ('blast-character-ascii', False),
+        ('blast-character-digit', True),
+        ('blast-character-ascii', True),
 
         ('b#ascii >= 7', False),
         ('b#digit >= 8', False),
